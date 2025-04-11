@@ -3,7 +3,7 @@ import React from "react";
 import Header from "./Header";
 import About from "./About";
 import ArticleList from "./ArticleList";
-import logo from "../assets/logo"; // Ensure this exists or replace with a URL
+import logo from "../assets/logo"; 
 
 const posts = [
   {
